@@ -6,5 +6,5 @@
 New way to make resources!
 
 ### Supported Versions
-1.19.3
+1.19.3,
 1.19.4
